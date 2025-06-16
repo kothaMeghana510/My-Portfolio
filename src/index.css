@@ -663,7 +663,7 @@ footer{
 }
 
   .goals {
-    width: 90%;
+    width: 100%;
   }
 
   .media {
@@ -721,7 +721,13 @@ footer{
 
   .next, .contact{
     padding: 2em;
-    margin: 1em;
+    
+}
+
+
+
+.next{
+    margin-top: -2em;
 }
 
 .step{

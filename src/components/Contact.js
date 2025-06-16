@@ -23,7 +23,7 @@ function Contact(){
                 </div>
                 <div className="media">
                     <i class="fa-solid fa-file contact-icon"></i>
-                    <a href="./Kotha-Meghana-Frontend-Developer-resume.pdf"  target="_blank" rel="noopener noreferrer">
+                    <a href={`${process.env.PUBLIC_URL}/Kotha-Meghana-Frontend-Developer-Resume.pdf`}  target="_blank" rel="noopener noreferrer">
                         <p className="label">View My Resume</p>
                     </a>
                 </div>
