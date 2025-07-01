@@ -1,34 +1,34 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.01ba2bcb.css",
-    "main.js": "/My-Portfolio/static/js/main.96a853ca.js",
+    "main.js": "/My-Portfolio/static/js/main.4bde1854.js",
+    "static/media/StoryStackVedio.mp4": "/My-Portfolio/static/media/StoryStackVedio.8626e17d814f8f260e5a.mp4",
     "static/media/ReadyToPackVedio.mp4": "/My-Portfolio/static/media/ReadyToPackVedio.ab409e5d33c7a1afc0c9.mp4",
-    "static/media/StoryStackVedio.mp4": "/My-Portfolio/static/media/StoryStackVedio.1519a69e55a22df04d5e.mp4",
     "static/media/MedicalShopVedio.mp4": "/My-Portfolio/static/media/MedicalShopVedio.e24386375392db5c0733.mp4",
     "static/media/DiceChallengeVedio.mp4": "/My-Portfolio/static/media/DiceChallengeVedio.8d7854be320478532943.mp4",
     "static/media/GuessNumberVedio.mp4": "/My-Portfolio/static/media/GuessNumberVedio.a16c19fc702ae982cb1a.mp4",
     "static/media/bannerVedio.mp4": "/My-Portfolio/static/media/bannerVedio.6b2558e97da5bf98727f.mp4",
-    "static/media/StoryMobile.png": "/My-Portfolio/static/media/StoryMobile.285be67b2ddc831e99b4.png",
     "static/media/ShopMobile.png": "/My-Portfolio/static/media/ShopMobile.aad9313c6b501cbb5a85.png",
+    "static/media/StoryMobile.png": "/My-Portfolio/static/media/StoryMobile.b3eb478494e12e86eb26.png",
     "static/media/PackMobile.png": "/My-Portfolio/static/media/PackMobile.2422628fd3eec4f28019.png",
     "static/media/DiceMobile.png": "/My-Portfolio/static/media/DiceMobile.d7fb681037922308e1d4.png",
     "static/media/BusinessWebsite.png": "/My-Portfolio/static/media/BusinessWebsite.d02a92aa8c2b263470dd.png",
     "static/media/GuessMobile.png": "/My-Portfolio/static/media/GuessMobile.432ff55c779b86e0f4df.png",
+    "static/media/StoryStack.png": "/My-Portfolio/static/media/StoryStack.525be2dc126159780930.png",
     "static/media/DiceChallenge.png": "/My-Portfolio/static/media/DiceChallenge.c55cdc4b6d4fb50dec13.png",
-    "static/media/StoryStack.png": "/My-Portfolio/static/media/StoryStack.71257f7f98f2fa4d4d3f.png",
     "static/media/JavaScript.jpg": "/My-Portfolio/static/media/JavaScript.5b1ff50e3c47ff0c6a15.jpg",
     "static/media/HTML.jpg": "/My-Portfolio/static/media/HTML.b10b9e755fefb9755358.jpg",
     "static/media/FreeCodeCamp.png": "/My-Portfolio/static/media/FreeCodeCamp.fdfb3ceb19c1e61d6225.png",
     "static/media/Python.jpg": "/My-Portfolio/static/media/Python.364143324630836723ac.jpg",
-    "static/media/about.png": "/My-Portfolio/static/media/about.9debb6065cb5f6e94453.png",
+    "static/media/about.png": "/My-Portfolio/static/media/about.5f7cc026ef0e681fa1bc.png",
     "static/media/ReadyToPack.png": "/My-Portfolio/static/media/ReadyToPack.39ea04d911ba05c8d39a.png",
     "static/media/GuessNumber.png": "/My-Portfolio/static/media/GuessNumber.05f68d4d41559dc186be.png",
     "index.html": "/My-Portfolio/index.html",
     "main.01ba2bcb.css.map": "/My-Portfolio/static/css/main.01ba2bcb.css.map",
-    "main.96a853ca.js.map": "/My-Portfolio/static/js/main.96a853ca.js.map"
+    "main.4bde1854.js.map": "/My-Portfolio/static/js/main.4bde1854.js.map"
   },
   "entrypoints": [
     "static/css/main.01ba2bcb.css",
-    "static/js/main.96a853ca.js"
+    "static/js/main.4bde1854.js"
   ]
 }
