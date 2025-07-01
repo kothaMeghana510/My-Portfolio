@@ -10,33 +10,6 @@ import NextSteps from "./components/NextSteps";
 
 
 function App(){
-    // const startingRef = useRef(null);
-    // const [showNabar, setShowNavbar] = useState(false);
-    // useEffect(() => {
-    //     const observer = new IntersectionObserver(([entry]) => {
-    //     if(entry.isIntersecting){
-    //         // console.log("hey it is visible");
-    //         setShowNavbar(true);
-    //         console.log(showNabar);
-    //     }else{
-    //         //console.log("no it is not visible");
-    //         setShowNavbar(false);
-    //     }
-    // }, {
-    //     threshold: 0.5,
-    // });
-    // const target = startingRef.current;
-    // if(target) {
-    //     observer.observe(target);
-    // }
-
-    // return () => {
-    //     if (target) {
-    //         observer.unobserve(target);
-    //     }
-    // };
-    // }, []);
-
     return (
         <div>
             <header>

@@ -16,8 +16,9 @@ import GuessNumberVedio from './assets/vedios/GuessNumberVedio.mp4';
 const projects = [
     {
         id: 1,
-        title: 'Story Stack',
-        description: 'A personalized book explorer powered by Google Books API. Users can search books, discover more from some same author, rate books, and manage personal library and favorites - all stored locally using local storage.',
+        title: 'Story Stack [ Version - 2 ]',
+        // description: 'A personalized book explorer powered by Google Books API. Users can search books, discover more from some same author, rate books, manage them to personal library and favarites- all stored locally using local storage.',
+        description: 'A personalized book explorer (v2) powered by the Google Books API. This version brings a smoother SPA experience with React Router and Context API. Users can now search and explore books, view author-wise collections, rate books, and manage a personal library and favorites — all saved locally. New features include adding start/end dates, writing personal notes for each book, and even uploading their own custom books.',
         techStack : ["HTML", "CSS", "JavaScript", "React", "API"],
         image: StoryStack,
         vedio: StoryStackVedio,

@@ -21,7 +21,7 @@ function Project({project}){
                 <source src={project.vedio}  type="video/mp4"></source>
            </video>
             <h3 className="title">{project.title}</h3>
-            <a href={project.githubLink} className="link" alt={project.title}><i class="fa-solid fa-link link-icon"></i> Try It Out</a>
+            <a href={project.githubLink}  className="link" alt={project.title}  target="_blank"><i class="fa-solid fa-link link-icon"></i> Try It Out</a>
 
            <div className="overlay">
                 {/* <h3>{project.title}</h3> */}
