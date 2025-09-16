@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.01ba2bcb.css",
-    "main.js": "/My-Portfolio/static/js/main.4bde1854.js",
+    "main.js": "/My-Portfolio/static/js/main.eb8f8f75.js",
     "static/media/StoryStackVedio.mp4": "/My-Portfolio/static/media/StoryStackVedio.8626e17d814f8f260e5a.mp4",
     "static/media/ReadyToPackVedio.mp4": "/My-Portfolio/static/media/ReadyToPackVedio.ab409e5d33c7a1afc0c9.mp4",
+    "static/media/MediStockProVedio.mp4": "/My-Portfolio/static/media/MediStockProVedio.e809624d709c723c5402.mp4",
     "static/media/MedicalShopVedio.mp4": "/My-Portfolio/static/media/MedicalShopVedio.e24386375392db5c0733.mp4",
     "static/media/DiceChallengeVedio.mp4": "/My-Portfolio/static/media/DiceChallengeVedio.8d7854be320478532943.mp4",
     "static/media/GuessNumberVedio.mp4": "/My-Portfolio/static/media/GuessNumberVedio.a16c19fc702ae982cb1a.mp4",
@@ -22,13 +23,14 @@
     "static/media/Python.jpg": "/My-Portfolio/static/media/Python.364143324630836723ac.jpg",
     "static/media/about.png": "/My-Portfolio/static/media/about.5f7cc026ef0e681fa1bc.png",
     "static/media/ReadyToPack.png": "/My-Portfolio/static/media/ReadyToPack.39ea04d911ba05c8d39a.png",
+    "static/media/MediStockPro.png": "/My-Portfolio/static/media/MediStockPro.916d8a22b3e43a6d23d9.png",
     "static/media/GuessNumber.png": "/My-Portfolio/static/media/GuessNumber.05f68d4d41559dc186be.png",
     "index.html": "/My-Portfolio/index.html",
     "main.01ba2bcb.css.map": "/My-Portfolio/static/css/main.01ba2bcb.css.map",
-    "main.4bde1854.js.map": "/My-Portfolio/static/js/main.4bde1854.js.map"
+    "main.eb8f8f75.js.map": "/My-Portfolio/static/js/main.eb8f8f75.js.map"
   },
   "entrypoints": [
     "static/css/main.01ba2bcb.css",
-    "static/js/main.4bde1854.js"
+    "static/js/main.eb8f8f75.js"
   ]
 }
